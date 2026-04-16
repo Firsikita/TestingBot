@@ -3,4 +3,4 @@ repository for testing bot, which periodically checks the links and looks for ch
 
 # TestingBot
 репозиторий для проверки бота. Проверяю ТГ бота, который раз в какое-то время ходит по ссылкам и проверяет измениения. 
-Проврка фильтров
+Проврка фильтров: PR, Issue
