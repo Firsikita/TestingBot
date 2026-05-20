@@ -8,3 +8,4 @@ Added Kafka.
 Проврка фильтров: PR, Issue. aksljfn
 
 Подключаю Kafka. Подключил Avro-схемы. Подключил Kafka-Ui
+Подключен новый сервис AI
